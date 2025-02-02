@@ -47,7 +47,6 @@ This project leverages **deep learning** to automatically detect road cracks.
 - warnings  
 
 
----
 ### Run the Notebook  
 ```bash
 jupyter notebook sentiment-analysis-bert-xai.ipynb
